@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mishka31/goit-js-hw-08.git"
+    "url": "git+https://github.com/Mishka31/Parcel-hw-08"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mishka31/goit-js-hw-08/issues"
+    "url": "https://github.com/Mishka31/Parcel-hw-08/issues"
   },
-  "homepage": "https://github.com/Mishka31/goit-js-hw-08#readme"
+  "homepage": "https://github.com/Mishka31/Parcel-hw-08#readme"
 }
